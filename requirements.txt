@@ -1,0 +1,10 @@
+torch
+torchaudio
+torchvision
+numpy
+matplotlib
+Pillow
+pydub
+PyQt6
+pyqtgraph
+soundfile

@@ -1,0 +1,12 @@
+# Data and training artifacts (hundreds of MB, regenerable)
+Dataset/
+Training-Images/
+Inference_Output/
+Input/
+Reviewed/
+*.pth
+*.wav
+
+# Local launchers and caches
+*.desktop
+__pycache__/
